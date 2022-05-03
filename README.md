@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nicole! 
-- 👀 I’m interested in Data Visualization
-- 🌱 I’m currently learning Classification Models
+- 👀 I’m interested in Data Science, especially Machine Learning and Data Visualization
+- 🌱 I’m currently learning Neural Networks
 - 🧁 I like to bake in my spare time!
 - 📫 How to reach me: https://www.linkedin.com/in/nanigbogu/ 
 
